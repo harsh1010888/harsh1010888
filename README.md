@@ -8,7 +8,7 @@
 ---
 
 🚀 I’m an enthusiastic learner who:
-- Explores **LLM models & GenAI**
+- Exploring **LLM models & GenAI**
 - Builds **MERN stack applications**
 - Solves problems daily on **LeetCode & CP platforms**
 - Loves contributing to the tech community & open-source
