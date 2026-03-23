@@ -6,13 +6,11 @@
 </p>
 
 ---
-
 🚀 I’m an enthusiastic learner who:
 - Exploring **LLM models & GenAI**
 - Builds **MERN stack applications**
 - Solves problems daily on **LeetCode & CP platforms**
 - Loves contributing to the tech community & open-source
-
 ---
 
 ## 🛠️ Tech Skills
@@ -45,7 +43,6 @@
 ### 🧪 Testing Tools
 <p>
   <img src="https://img.icons8.com/fluency/48/selenium-test-automation.png" width="30" /> Selenium
-  <img src="https://img.icons8.com/windows/32/dot-net.png" width="30" /> .NET (Beginner)
 </p>
 
 ### 🧠 Python Libraries
@@ -63,8 +60,6 @@
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-codechef-3629310-3031411.png" width="30" /> CodeChef
   <img src="https://img.icons8.com/windows/32/hackerrank.png" width="30" /> HackerRank
 </p>
-
----
 
 ## 📌 Projects
 
