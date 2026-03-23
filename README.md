@@ -81,16 +81,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh1010888&layout=compact&theme=radical" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harsh1010888&theme=radical&row=1&column=6"/>
-</p>
-
----
-
 ## 🔗 Let's Connect
 
 <p>
@@ -99,10 +89,3 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCVpH1W5WzsRM2I/giphy.gif" height="150" />
-</p>
-
-<p align="center"><b>“Keep building. Keep learning. Keep solving.”</b></p>
